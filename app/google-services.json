@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251932193466",
+    "project_id": "workconnect-26bba",
+    "storage_bucket": "workconnect-26bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251932193466:android:b77107b95e6f8a49740883",
+        "android_client_info": {
+          "package_name": "ru.stroymig.workconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflRRIKmDl9PglYeRNTSfJ4KOBMCb-ji4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
